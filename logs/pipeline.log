@@ -1,0 +1,21 @@
+2026-04-20 01:14:50,934 [INFO] ════════════════════════════════════════════════════════════
+2026-04-20 01:14:50,935 [INFO]   BLOCKCHAIN LEDGER — FULL PIPELINE START
+2026-04-20 01:14:50,936 [INFO] ════════════════════════════════════════════════════════════
+2026-04-20 01:14:50,937 [INFO] STEP 1 | Data Generation
+2026-04-20 01:14:51,185 [INFO] Starting generation of 100,000 transactions ...
+2026-04-20 01:14:58,542 [INFO] Generated 100,000 records in 7.36s → data/raw/transactions_batch.csv
+2026-04-20 01:14:58,591 [INFO] STEP 2 | Ingestion & Cleaning
+2026-04-20 01:15:01,824 [INFO] Loaded 100,000 rows from data/raw/transactions_batch.csv
+2026-04-20 01:15:01,900 [INFO] Loaded 500 wallet records from data/raw/wallet_metadata.json
+2026-04-20 01:15:02,046 [INFO] Cleaning removed 0 rows
+2026-04-20 01:15:02,125 [INFO] Merged transactions with wallet metadata
+2026-04-20 01:15:03,354 [INFO] Saved processed data → data/processed/transactions_clean.parquet (10.9 MB)
+2026-04-20 01:15:03,380 [INFO] STEP 3 | Processing & Validation
+2026-04-20 01:15:04,284 [INFO] Validation → 100,000 valid | 0 invalid
+2026-04-20 01:15:04,352 [INFO] Anomaly detection flagged 0 transactions
+2026-04-20 01:15:05,908 [INFO] STEP 4 | Kafka skipped
+2026-04-20 01:15:05,911 [INFO] STEP 5 | Spark skipped
+2026-04-20 01:15:05,912 [INFO] STEP 6 | Analytics Report
+2026-04-20 01:15:06,573 [INFO] ════════════════════════════════════════════════════════════
+2026-04-20 01:15:06,575 [INFO]   PIPELINE COMPLETE ✓
+2026-04-20 01:15:06,577 [INFO] ════════════════════════════════════════════════════════════

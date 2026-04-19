@@ -1,0 +1,3002 @@
+[
+  {
+    "wallet_address": "0xcfcd208495d565ef66e7dff9f98764da",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 0.08
+  },
+  {
+    "wallet_address": "0xc4ca4238a0b923820dcc509a6f75849b",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 6.54
+  },
+  {
+    "wallet_address": "0xc81e728d9d4c2f636f067f89cc14862c",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 0.82
+  },
+  {
+    "wallet_address": "0xeccbc87e4b5ce2fe28308fd9f2a7baf3",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 4.38
+  },
+  {
+    "wallet_address": "0xa87ff679a2f3e71d9181a67b7542122c",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 8.33
+  },
+  {
+    "wallet_address": "0xe4da3b7fbbce2345d7772b0674a318d5",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 3.41
+  },
+  {
+    "wallet_address": "0x1679091c5a880faf6fb5e6087eb1b2dc",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 5.6
+  },
+  {
+    "wallet_address": "0x8f14e45fceea167a5a36dedd4bea2543",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 7.8
+  },
+  {
+    "wallet_address": "0xc9f0f895fb98ab9159f51fd0297e236d",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 5.81
+  },
+  {
+    "wallet_address": "0x45c48cce2e2d7fbdea1afc51c7c6ad26",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 7.06
+  },
+  {
+    "wallet_address": "0xd3d9446802a44259755d38e6d163e820",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 0.08
+  },
+  {
+    "wallet_address": "0x6512bd43d9caa6e02c990b0a82652dca",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 4.33
+  },
+  {
+    "wallet_address": "0xc20ad4d76fe97759aa27a0c99bff6710",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 7.47
+  },
+  {
+    "wallet_address": "0xc51ce410c124a10e0db5e4b97fc2af39",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 8.09
+  },
+  {
+    "wallet_address": "0xaab3238922bcc25a6f606eb525ffdc56",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 6.82
+  },
+  {
+    "wallet_address": "0x9bf31c7ff062936a96d3c8bd1f8f2ff3",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 9.09
+  },
+  {
+    "wallet_address": "0xc74d97b01eae257e44aa9d5bade97baf",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 4.04
+  },
+  {
+    "wallet_address": "0x70efdf2ec9b086079795c442636b55fb",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 4.46
+  },
+  {
+    "wallet_address": "0x6f4922f45568161a8cdf4ad2299f6d23",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 0.84
+  },
+  {
+    "wallet_address": "0x1f0e3dad99908345f7439f8ffabdffc4",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 7.99
+  },
+  {
+    "wallet_address": "0x98f13708210194c475687be6106a3b84",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 7.63
+  },
+  {
+    "wallet_address": "0x3c59dc048e8850243be8079a5c74d079",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 4.63
+  },
+  {
+    "wallet_address": "0xb6d767d2f8ed5d21a44b0e5886680cb9",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 0.1
+  },
+  {
+    "wallet_address": "0x37693cfc748049e45d87b8c7d8b9aacd",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 5.85
+  },
+  {
+    "wallet_address": "0x1ff1de774005f8da13f42943881c655f",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 8.82
+  },
+  {
+    "wallet_address": "0x8e296a067a37563370ded05f5a3bf3ec",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 8.98
+  },
+  {
+    "wallet_address": "0x4e732ced3463d06de0ca9a15b6153677",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 6.81
+  },
+  {
+    "wallet_address": "0x02e74f10e0327ad868d138f2b4fdd6f0",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 8.32
+  },
+  {
+    "wallet_address": "0x33e75ff09dd601bbe69f351039152189",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 6.75
+  },
+  {
+    "wallet_address": "0x6ea9ab1baa0efb9e19094440c317e21b",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 5.8
+  },
+  {
+    "wallet_address": "0x34173cb38f07f89ddbebc2ac9128303f",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 6.95
+  },
+  {
+    "wallet_address": "0xc16a5320fa475530d9583c34fd356ef5",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 8.3
+  },
+  {
+    "wallet_address": "0x6364d3f0f495b6ab9dcf8d3b5c6e0b01",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 2.56
+  },
+  {
+    "wallet_address": "0x182be0c5cdcd5072bb1864cdee4d3d6e",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 4.8
+  },
+  {
+    "wallet_address": "0xe369853df766fa44e1ed0ff613f563bd",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 9.54
+  },
+  {
+    "wallet_address": "0x1c383cd30b7c298ab50293adfecb7b18",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 7.79
+  },
+  {
+    "wallet_address": "0x19ca14e7ea6328a42e0eb13d585e4c22",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 3.71
+  },
+  {
+    "wallet_address": "0xa5bfc9e07964f8dddeb95fc584cd965d",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 8.1
+  },
+  {
+    "wallet_address": "0xa5771bce93e200c36f7cd9dfd0e5deaa",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 9.07
+  },
+  {
+    "wallet_address": "0xd67d8ab4f4c10bf22aa353e27879133c",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 7.63
+  },
+  {
+    "wallet_address": "0xd645920e395fedad7bbbed0eca3fe2e0",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 0.04
+  },
+  {
+    "wallet_address": "0x3416a75f4cea9109507cacd8e2f2aefc",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 9.53
+  },
+  {
+    "wallet_address": "0xa1d0c6e83f027327d8461063f4ac58a6",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 7.37
+  },
+  {
+    "wallet_address": "0x17e62166fc8586dfa4d1bc0e1742c08b",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 9.61
+  },
+  {
+    "wallet_address": "0xf7177163c833dff4b38fc8d2872f1ec6",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 2.19
+  },
+  {
+    "wallet_address": "0x6c8349cc7260ae62e3b1396831a8398f",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 6.66
+  },
+  {
+    "wallet_address": "0xd9d4f495e875a2e075a1a4a6e1b9770f",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 8.19
+  },
+  {
+    "wallet_address": "0x67c6a1e7ce56d3d6fa748ab6d9af3fd7",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 1.47
+  },
+  {
+    "wallet_address": "0x642e92efb79421734881b53e1e1b18b6",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 5.52
+  },
+  {
+    "wallet_address": "0xf457c545a9ded88f18ecee47145a72c0",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 6.5
+  },
+  {
+    "wallet_address": "0xc0c7c76d30bd3dcaefc96f40275bdc0a",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 3.49
+  },
+  {
+    "wallet_address": "0x2838023a778dfaecdc212708f721b788",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 5.25
+  },
+  {
+    "wallet_address": "0x9a1158154dfa42caddbd0694a4e9bdc8",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 9.3
+  },
+  {
+    "wallet_address": "0xd82c8d1619ad8176d665453cfb2e55f0",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 6.0
+  },
+  {
+    "wallet_address": "0xa684eceee76fc522773286a895bc8436",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 7.13
+  },
+  {
+    "wallet_address": "0xb53b3a3d6ab90ce0268229151c9bde11",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 2.28
+  },
+  {
+    "wallet_address": "0x9f61408e3afb633e50cdf1b20de6f466",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 6.38
+  },
+  {
+    "wallet_address": "0x72b32a1f754ba1c09b3695e0cb6cde7f",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 8.3
+  },
+  {
+    "wallet_address": "0x66f041e16a60928b05a7e228a89c3799",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 1.33
+  },
+  {
+    "wallet_address": "0x093f65e080a295f8076b1c5722a46aa2",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 8.4
+  },
+  {
+    "wallet_address": "0x072b030ba126b2f4b2374f342be9ed44",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 4.56
+  },
+  {
+    "wallet_address": "0x7f39f8317fbdb1988ef4c628eba02591",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 5.54
+  },
+  {
+    "wallet_address": "0x44f683a84163b3523afe57c2e008bc8c",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 2.28
+  },
+  {
+    "wallet_address": "0x03afdbd66e7929b125f8597834fa83a4",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 2.81
+  },
+  {
+    "wallet_address": "0xea5d2f1c4608232e07d3aa3d998e5135",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 5.43
+  },
+  {
+    "wallet_address": "0xfc490ca45c00b1249bbe3554a4fdf6fb",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 8.38
+  },
+  {
+    "wallet_address": "0x3295c76acbf4caaed33c36b1b5fc2cb1",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 4.2
+  },
+  {
+    "wallet_address": "0x735b90b4568125ed6c3f678819b6e058",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 1.69
+  },
+  {
+    "wallet_address": "0xa3f390d88e4c41f2747bfa2f1b5f87db",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 9.35
+  },
+  {
+    "wallet_address": "0x14bfa6bb14875e45bba028a21ed38046",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 8.45
+  },
+  {
+    "wallet_address": "0x7cbbc409ec990f19c78c75bd1e06f215",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 4.15
+  },
+  {
+    "wallet_address": "0xe2c420d928d4bf8ce0ff2ec19b371514",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 8.39
+  },
+  {
+    "wallet_address": "0x32bb90e8976aab5298d5da10fe66f21d",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 9.26
+  },
+  {
+    "wallet_address": "0xd2ddea18f00665ce8623e36bd4e3c7c5",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 5.54
+  },
+  {
+    "wallet_address": "0xad61ab143223efbc24c7d2583be69251",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 4.69
+  },
+  {
+    "wallet_address": "0xd09bf41544a3365a46c9077ebb5e35c3",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 1.91
+  },
+  {
+    "wallet_address": "0xfbd7939d674997cdb4692d34de8633c4",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 7.43
+  },
+  {
+    "wallet_address": "0x28dd2c7955ce926456240b2ff0100bde",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 1.77
+  },
+  {
+    "wallet_address": "0x35f4a8d465e6e1edc05f3d8ab658c551",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 1.48
+  },
+  {
+    "wallet_address": "0xd1fe173d08e959397adf34b1d77e88d7",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 2.41
+  },
+  {
+    "wallet_address": "0xf033ab37c30201f73f142449d037028d",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 8.17
+  },
+  {
+    "wallet_address": "0x43ec517d68b6edd3015b3edc9a11367b",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 0.26
+  },
+  {
+    "wallet_address": "0x9778d5d219c5080b9a6a17bef029331c",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 1.2
+  },
+  {
+    "wallet_address": "0xfe9fc289c3ff0af142b6d3bead98a923",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 7.85
+  },
+  {
+    "wallet_address": "0x68d30a9594728bc39aa24be94b319d21",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 6.06
+  },
+  {
+    "wallet_address": "0x3ef815416f775098fe977004015c6193",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 1.99
+  },
+  {
+    "wallet_address": "0x93db85ed909c13838ff95ccfa94cebd9",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 9.31
+  },
+  {
+    "wallet_address": "0xc7e1249ffc03eb9ded908c236bd1996d",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 8.94
+  },
+  {
+    "wallet_address": "0x2a38a4a9316c49e5a833517c45d31070",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 0.73
+  },
+  {
+    "wallet_address": "0x7647966b7343c29048673252e490f736",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 9.98
+  },
+  {
+    "wallet_address": "0x8613985ec49eb8f757ae6439e879bb2a",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 1.67
+  },
+  {
+    "wallet_address": "0x54229abfcfa5649e7003b83dd4755294",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 0.33
+  },
+  {
+    "wallet_address": "0x92cc227532d17e56e07902b254dfad10",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 9.88
+  },
+  {
+    "wallet_address": "0x98dce83da57b0395e163467c9dae521b",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 4.55
+  },
+  {
+    "wallet_address": "0xf4b9ec30ad9f68f89b29639786cb62ef",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 1.66
+  },
+  {
+    "wallet_address": "0x812b4ba287f5ee0bc9d43bbf5bbe87fb",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 0.49
+  },
+  {
+    "wallet_address": "0x26657d5ff9020d2abefe558796b99584",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 0.36
+  },
+  {
+    "wallet_address": "0xe2ef524fbf3d9fe611d5a8e90fefdc9c",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 2.79
+  },
+  {
+    "wallet_address": "0xed3d2c21991e3bef5e069713af9fa6ca",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 8.45
+  },
+  {
+    "wallet_address": "0xac627ab1ccbdb62ec96e702f07f6425b",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 7.52
+  },
+  {
+    "wallet_address": "0xf899139df5e1059396431415e770c6dd",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 3.18
+  },
+  {
+    "wallet_address": "0x38b3eff8baf56627478ec76a704e9b52",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 7.89
+  },
+  {
+    "wallet_address": "0xec8956637a99787bd197eacd77acce5e",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 8.58
+  },
+  {
+    "wallet_address": "0x6974ce5ac660610b44d9b9fed0ff9548",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 5.66
+  },
+  {
+    "wallet_address": "0xc9e1074f5b3f9fc8ea15d152add07294",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 2.64
+  },
+  {
+    "wallet_address": "0x65b9eea6e1cc6bb9f0cd2a47751a186f",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 4.28
+  },
+  {
+    "wallet_address": "0xf0935e4cd5920aa6c7c996a5ee53a70f",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 6.26
+  },
+  {
+    "wallet_address": "0xa97da629b098b75c294dffdc3e463904",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 1.9
+  },
+  {
+    "wallet_address": "0xa3c65c2974270fd093ee8a9bf8ae7d0b",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 4.76
+  },
+  {
+    "wallet_address": "0x2723d092b63885e0d7c260cc007e8b9d",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 9.5
+  },
+  {
+    "wallet_address": "0x5f93f983524def3dca464469d2cf9f3e",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 7.83
+  },
+  {
+    "wallet_address": "0x698d51a19d8a121ce581499d7b701668",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 4.72
+  },
+  {
+    "wallet_address": "0x7f6ffaa6bb0b408017b62254211691b5",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 3.63
+  },
+  {
+    "wallet_address": "0x73278a4a86960eeb576a8fd4c9ec6997",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 9.98
+  },
+  {
+    "wallet_address": "0x5fd0b37cd7dbbb00f97ba6ce92bf5add",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 6.56
+  },
+  {
+    "wallet_address": "0x2b44928ae11fb9384c4cf38708677c48",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 4.72
+  },
+  {
+    "wallet_address": "0xc45147dee729311ef5b5c3003946c48f",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 0.97
+  },
+  {
+    "wallet_address": "0xeb160de1de89d9058fcb0b968dbbbd68",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 8.34
+  },
+  {
+    "wallet_address": "0x5ef059938ba799aaa845e1c2e8a762bd",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 8.09
+  },
+  {
+    "wallet_address": "0x07e1cd7dca89a1678042477183b7ac3f",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 7.18
+  },
+  {
+    "wallet_address": "0xda4fb5c6e93e74d3df8527599fa62642",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 0.19
+  },
+  {
+    "wallet_address": "0x4c56ff4ce4aaf9573aa5dff913df997a",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 7.67
+  },
+  {
+    "wallet_address": "0xa0a080f42e6f13b3a2df133f073095dd",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 0.24
+  },
+  {
+    "wallet_address": "0x202cb962ac59075b964b07152d234b70",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 7.9
+  },
+  {
+    "wallet_address": "0xc8ffe9a587b126f152ed3d89a146b445",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 1.22
+  },
+  {
+    "wallet_address": "0x3def184ad8f4755ff269862ea77393dd",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 4.97
+  },
+  {
+    "wallet_address": "0x069059b7ef840f0c74a814ec9237b6ec",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 4.57
+  },
+  {
+    "wallet_address": "0xec5decca5ed3d6b8079e2e7e7bacc9f2",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 1.36
+  },
+  {
+    "wallet_address": "0x76dc611d6ebaafc66cc0879c71b5db5c",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 6.4
+  },
+  {
+    "wallet_address": "0xd1f491a404d6854880943e5c3cd9ca25",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 6.07
+  },
+  {
+    "wallet_address": "0x9b8619251a19057cff70779273e95aa6",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 0.7
+  },
+  {
+    "wallet_address": "0x1afa34a7f984eeabdbb0a7d494132ee5",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 4.66
+  },
+  {
+    "wallet_address": "0x65ded5353c5ee48d0b7d48c591b8f430",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 6.12
+  },
+  {
+    "wallet_address": "0x9fc3d7152ba9336a670e36d0ed79bc43",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 4.88
+  },
+  {
+    "wallet_address": "0x02522a2b2726fb0a03bb19f2d8d9524d",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 8.12
+  },
+  {
+    "wallet_address": "0x7f1de29e6da19d22b51c68001e7e0e54",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 7.64
+  },
+  {
+    "wallet_address": "0x42a0e188f5033bc65bf8d78622277c4e",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 6.87
+  },
+  {
+    "wallet_address": "0x3988c7f88ebcb58c6ce932b957b6f332",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 9.59
+  },
+  {
+    "wallet_address": "0x013d407166ec4fa56eb1e1f8cbe183b9",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 6.26
+  },
+  {
+    "wallet_address": "0xe00da03b685a0dd18fb6a08af0923de0",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 2.63
+  },
+  {
+    "wallet_address": "0x1385974ed5904a438616ff7bdb3f7439",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 3.48
+  },
+  {
+    "wallet_address": "0x0f28b5d49b3020afeecd95b4009adf4c",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 5.94
+  },
+  {
+    "wallet_address": "0xa8baa56554f96369ab93e4f3bb068c22",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 2.19
+  },
+  {
+    "wallet_address": "0x903ce9225fca3e988c2af215d4e544d3",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 0.54
+  },
+  {
+    "wallet_address": "0x0a09c8844ba8f0936c20bd791130d6b6",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 7.29
+  },
+  {
+    "wallet_address": "0x2b24d495052a8ce66358eb576b8912c8",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 3.66
+  },
+  {
+    "wallet_address": "0xa5e00132373a7031000fd987a3c9f87b",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 3.56
+  },
+  {
+    "wallet_address": "0x8d5e957f297893487bd98fa830fa6413",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 1.45
+  },
+  {
+    "wallet_address": "0x47d1e990583c9c67424d369f3414728e",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 0.65
+  },
+  {
+    "wallet_address": "0xf2217062e9a397a1dca429e7d70bc6ca",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 2.76
+  },
+  {
+    "wallet_address": "0x7ef605fc8dba5425d6965fbd4c8fbe1f",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 9.27
+  },
+  {
+    "wallet_address": "0xa8f15eda80c50adb0e71943adc8015cf",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 5.05
+  },
+  {
+    "wallet_address": "0x37a749d808e46495a8da1e5352d03cae",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 2.97
+  },
+  {
+    "wallet_address": "0xb3e3e393c77e35a4a3f3cbd1e429b5dc",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 4.07
+  },
+  {
+    "wallet_address": "0x1d7f7abc18fcb43975065399b0d1e48e",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 1.93
+  },
+  {
+    "wallet_address": "0x2a79ea27c279e471f4d180b08d62b00a",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 9.39
+  },
+  {
+    "wallet_address": "0x1c9ac0159c94d8d0cbedc973445af2da",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 7.9
+  },
+  {
+    "wallet_address": "0x6c4b761a28b734fe93831e3fb400ce87",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 1.14
+  },
+  {
+    "wallet_address": "0x06409663226af2f3114485aa4e0a23b4",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 2.78
+  },
+  {
+    "wallet_address": "0x140f6969d5213fd0ece03148e62e461e",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 9.72
+  },
+  {
+    "wallet_address": "0xb73ce398c39f506af761d2277d853a92",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 4.09
+  },
+  {
+    "wallet_address": "0xbd4c9ab730f5513206b999ec0d90d1fb",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 0.83
+  },
+  {
+    "wallet_address": "0x82aa4b0af34c2313a562076992e50aa3",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 0.81
+  },
+  {
+    "wallet_address": "0x0777d5c17d4066b82ab86dff8a46af6f",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 7.82
+  },
+  {
+    "wallet_address": "0xfa7cdfad1a5aaf8370ebeda47a1ff1c3",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 9.95
+  },
+  {
+    "wallet_address": "0x9766527f2b5d3e95d4a733fcfb77bd7e",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 8.12
+  },
+  {
+    "wallet_address": "0x7e7757b1e12abcb736ab9a754ffb617a",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 3.96
+  },
+  {
+    "wallet_address": "0x5878a7ab84fb43402106c575658472fa",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 0.67
+  },
+  {
+    "wallet_address": "0x006f52e9102a8d3be2fe5614f42ba989",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 6.26
+  },
+  {
+    "wallet_address": "0x3636638817772e42b59d74cff571fbb3",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 9.66
+  },
+  {
+    "wallet_address": "0x149e9677a5989fd342ae44213df68868",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 4.92
+  },
+  {
+    "wallet_address": "0xa4a042cf4fd6bfb47701cbc8a1653ada",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 7.19
+  },
+  {
+    "wallet_address": "0x1ff8a7b5dc7a7d1f0ed65aaa29c04b1e",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 3.4
+  },
+  {
+    "wallet_address": "0xf7e6c85504ce6e82442c770f7c8606f0",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 7.44
+  },
+  {
+    "wallet_address": "0xbf8229696f7a3bb4700cfddef19fa23f",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 2.85
+  },
+  {
+    "wallet_address": "0x82161242827b703e6acf9c726942a1e4",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 7.41
+  },
+  {
+    "wallet_address": "0x38af86134b65d0f10fe33d30dd76442e",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 8.51
+  },
+  {
+    "wallet_address": "0x96da2f590cd7246bbde0051047b0d6f7",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 6.83
+  },
+  {
+    "wallet_address": "0x8f85517967795eeef66c225f7883bdcb",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 4.58
+  },
+  {
+    "wallet_address": "0x8f53295a73878494e9bc8dd6c3c7104f",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 0.72
+  },
+  {
+    "wallet_address": "0x045117b0e0a11a242b9765e79cbf113f",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 4.28
+  },
+  {
+    "wallet_address": "0xfc221309746013ac554571fbd180e1c8",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 5.77
+  },
+  {
+    "wallet_address": "0x4c5bde74a8f110656874902f07378009",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 4.55
+  },
+  {
+    "wallet_address": "0xcedebb6e872f539bef8c3f919874e9d7",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 5.2
+  },
+  {
+    "wallet_address": "0x6cdd60ea0045eb7a6ec44c54d29ed402",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 9.34
+  },
+  {
+    "wallet_address": "0xeecca5b6365d9607ee5a9d336962c534",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 7.12
+  },
+  {
+    "wallet_address": "0x9872ed9fc22fc182d371c3e9ed316094",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 4.91
+  },
+  {
+    "wallet_address": "0x31fefc0e570cb3860f2a6d4b38c6490d",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 8.96
+  },
+  {
+    "wallet_address": "0x9dcb88e0137649590b755372b040afad",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 3.07
+  },
+  {
+    "wallet_address": "0xa2557a7b2e94197ff767970b67041697",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 0.69
+  },
+  {
+    "wallet_address": "0xcfecdb276f634854f3ef915e2e980c31",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 5.43
+  },
+  {
+    "wallet_address": "0x0aa1883c6411f7873cb83dacb17b0afc",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 2.84
+  },
+  {
+    "wallet_address": "0x58a2fc6ed39fd083f55d4182bf88826d",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 5.14
+  },
+  {
+    "wallet_address": "0xbd686fd640be98efaae0091fa301e613",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 8.48
+  },
+  {
+    "wallet_address": "0xa597e50502f5ff68e3e25b9114205d4a",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 8.75
+  },
+  {
+    "wallet_address": "0x0336dcbab05b9d5ad24f4333c7658a0e",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 4.32
+  },
+  {
+    "wallet_address": "0x084b6fbb10729ed4da8c3d3f5a3ae7c9",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 0.33
+  },
+  {
+    "wallet_address": "0x85d8ce590ad8981ca2c8286f79f59954",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 1.9
+  },
+  {
+    "wallet_address": "0x0e65972dce68dad4d52d063967f0a705",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 8.31
+  },
+  {
+    "wallet_address": "0x84d9ee44e457ddef7f2c4f25dc8fa865",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 7.32
+  },
+  {
+    "wallet_address": "0x3644a684f98ea8fe223c713b77189a77",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 1.59
+  },
+  {
+    "wallet_address": "0x757b505cfd34c64c85ca5b5690ee5293",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 1.21
+  },
+  {
+    "wallet_address": "0x854d6fae5ee42911677c739ee1734486",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 9.92
+  },
+  {
+    "wallet_address": "0xe2c0be24560d78c5e599c2a9c9d0bbd2",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 6.1
+  },
+  {
+    "wallet_address": "0x274ad4786c3abca69fa097b85867d9a4",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 2.67
+  },
+  {
+    "wallet_address": "0xeae27d77ca20db309e056e3d2dcd7d69",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 9.09
+  },
+  {
+    "wallet_address": "0x7eabe3a1649ffa2b3ff8c02ebfd5659f",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 9.54
+  },
+  {
+    "wallet_address": "0x69adc1e107f7f7d035d7baf04342e1ca",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 3.23
+  },
+  {
+    "wallet_address": "0x091d584fced301b442654dd8c23b3fc9",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 1.89
+  },
+  {
+    "wallet_address": "0xb1d10e7bafa4421218a51b1e1f1b0ba2",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 0.65
+  },
+  {
+    "wallet_address": "0x6f3ef77ac0e3619e98159e9b6febf557",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 0.96
+  },
+  {
+    "wallet_address": "0xeb163727917cbba1eea208541a643e74",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 5.72
+  },
+  {
+    "wallet_address": "0x1534b76d325a8f591b52d302e7181331",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 9.28
+  },
+  {
+    "wallet_address": "0x979d472a84804b9f647bc185a877a8b5",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 3.22
+  },
+  {
+    "wallet_address": "0xca46c1b9512a7a8315fa3c5a946e8265",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 0.24
+  },
+  {
+    "wallet_address": "0x3b8a614226a953a8cd9526fca6fe9ba5",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 4.1
+  },
+  {
+    "wallet_address": "0x45fbc6d3e05ebd93369ce542e8f2322d",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 4.48
+  },
+  {
+    "wallet_address": "0x63dc7ed1010d3c3b8269faf0ba7491d4",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 6.8
+  },
+  {
+    "wallet_address": "0xe96ed478dab8595a7dbda4cbcbee168f",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 1.13
+  },
+  {
+    "wallet_address": "0xc0e190d8267e36708f955d7ab048990d",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 2.4
+  },
+  {
+    "wallet_address": "0xec8ce6abb3e952a85b8551ba726a1227",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 6.35
+  },
+  {
+    "wallet_address": "0x060ad92489947d410d897474079c1477",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 6.03
+  },
+  {
+    "wallet_address": "0xbcbe3365e6ac95ea2c0343a2395834dd",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 2.73
+  },
+  {
+    "wallet_address": "0x115f89503138416a242f40fb7d7f338e",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 3.7
+  },
+  {
+    "wallet_address": "0x13fe9d84310e77f13a6d184dbf1232f3",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 0.16
+  },
+  {
+    "wallet_address": "0xd1c38a09acc34845c6be3a127a5aacaf",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 0.15
+  },
+  {
+    "wallet_address": "0x9cfdf10e8fc047a44b08ed031e1f0ed1",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 9.17
+  },
+  {
+    "wallet_address": "0x705f2172834666788607efbfca35afb3",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 6.07
+  },
+  {
+    "wallet_address": "0x74db120f0a8e5646ef5a30154e9f6deb",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 7.54
+  },
+  {
+    "wallet_address": "0x57aeee35c98205091e18d1140e9f38cf",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 5.19
+  },
+  {
+    "wallet_address": "0x6da9003b743b65f4c0ccd295cc484e57",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 1.39
+  },
+  {
+    "wallet_address": "0x9b04d152845ec0a378394003c96da594",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 8.79
+  },
+  {
+    "wallet_address": "0xbe83ab3ecd0db773eb2dc1b0a17836a1",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 7.04
+  },
+  {
+    "wallet_address": "0xe165421110ba03099a1c0393373c5b43",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 8.95
+  },
+  {
+    "wallet_address": "0x289dff07669d7a23de0ef88d2f7129e7",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 9.28
+  },
+  {
+    "wallet_address": "0x577ef1154f3240ad5b9b413aa7346a1e",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 7.74
+  },
+  {
+    "wallet_address": "0x01161aaa0b6d1345dd8fe4e481144d84",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 3.73
+  },
+  {
+    "wallet_address": "0x539fd53b59e3bb12d203f45a912eeaf2",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 8.08
+  },
+  {
+    "wallet_address": "0xac1dd209cbcc5e5d1c6e28598e8cbbe8",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 9.4
+  },
+  {
+    "wallet_address": "0x555d6702c950ecb729a966504af0a635",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 2.82
+  },
+  {
+    "wallet_address": "0x335f5352088d7d9bf74191e006d8e24c",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 4.33
+  },
+  {
+    "wallet_address": "0xf340f1b1f65b6df5b5e3f94d95b11daf",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 1.9
+  },
+  {
+    "wallet_address": "0xe4a6222cdb5b34375400904f03d8e6a5",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 5.35
+  },
+  {
+    "wallet_address": "0xcb70ab375662576bd1ac5aaf16b3fca4",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 7.38
+  },
+  {
+    "wallet_address": "0x9188905e74c28e489b44e954ec0b9bca",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 4.01
+  },
+  {
+    "wallet_address": "0x0266e33d3f546cb5436a10798e657d97",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 6.13
+  },
+  {
+    "wallet_address": "0x38db3aed920cf82ab059bfccbd02be6a",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 7.52
+  },
+  {
+    "wallet_address": "0x3cec07e9ba5f5bb252d13f5f431e4bbb",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 9.68
+  },
+  {
+    "wallet_address": "0x621bf66ddb7c962aa0d22ac97d69b793",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 4.68
+  },
+  {
+    "wallet_address": "0x077e29b11be80ab57e1a2ecabb7da330",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 9.88
+  },
+  {
+    "wallet_address": "0x6c9882bbac1c7093bd25041881277658",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 8.03
+  },
+  {
+    "wallet_address": "0x19f3cd308f1455b3fa09a282e0d496f4",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 8.9
+  },
+  {
+    "wallet_address": "0x03c6b06952c750899bb03d998e631860",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 3.82
+  },
+  {
+    "wallet_address": "0xc24cd76e1ce41366a4bbe8a49b02a028",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 1.13
+  },
+  {
+    "wallet_address": "0xc52f1bd66cc19d05628bd8bf27af3ad6",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 5.99
+  },
+  {
+    "wallet_address": "0xfe131d7f5a6b38b23cc967316c13dae2",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 8.59
+  },
+  {
+    "wallet_address": "0xf718499c1c8cef6730f9fd03c8125cab",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 0.3
+  },
+  {
+    "wallet_address": "0xd96409bf894217686ba124d7356686c9",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 9.3
+  },
+  {
+    "wallet_address": "0x502e4a16930e414107ee22b6198c578f",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 4.83
+  },
+  {
+    "wallet_address": "0xcfa0860e83a4c3a763a7e62d825349f7",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 4.63
+  },
+  {
+    "wallet_address": "0xa4f23670e1833f3fdb077ca70bbd5d66",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 6.3
+  },
+  {
+    "wallet_address": "0xb1a59b315fc9a3002ce38bbe070ec3f5",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 5.26
+  },
+  {
+    "wallet_address": "0x36660e59856b4de58a219bcf4e27eba3",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 5.16
+  },
+  {
+    "wallet_address": "0x8c19f571e251e61cb8dd3612f26d5ecf",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 6.86
+  },
+  {
+    "wallet_address": "0xd6baf65e0b240ce177cf70da146c8dc8",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 8.09
+  },
+  {
+    "wallet_address": "0xe56954b4f6347e897f954495eab16a88",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 1.07
+  },
+  {
+    "wallet_address": "0xf7664060cc52bc6f3d620bcedc94a4b6",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 0.26
+  },
+  {
+    "wallet_address": "0xeda80a3d5b344bc40f3bc04f65b7a357",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 8.31
+  },
+  {
+    "wallet_address": "0x8f121ce07d74717e0b1f21d122e04521",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 2.21
+  },
+  {
+    "wallet_address": "0x06138bc5af6023646ede0e1f7c1eac75",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 4.96
+  },
+  {
+    "wallet_address": "0x39059724f73a9969845dfe4146c5660e",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 3.5
+  },
+  {
+    "wallet_address": "0x7f100b7b36092fb9b06dfb4fac360931",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 5.25
+  },
+  {
+    "wallet_address": "0x7a614fd06c325499f1680b9896beedeb",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 2.89
+  },
+  {
+    "wallet_address": "0x4734ba6f3de83d861c3176a6273cac6d",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 5.6
+  },
+  {
+    "wallet_address": "0xd947bf06a885db0d477d707121934ff8",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 7.01
+  },
+  {
+    "wallet_address": "0x63923f49e5241343aa7acb6a06a751e7",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 5.18
+  },
+  {
+    "wallet_address": "0xdb8e1af0cb3aca1ae2d0018624204529",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 7.68
+  },
+  {
+    "wallet_address": "0x20f07591c6fcb220ffe637cda29bb3f6",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 7.58
+  },
+  {
+    "wallet_address": "0x07cdfd23373b17c6b337251c22b7ea57",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 0.7
+  },
+  {
+    "wallet_address": "0xd395771085aab05244a4fb8fd91bf4ee",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 6.55
+  },
+  {
+    "wallet_address": "0x92c8c96e4c37100777c7190b76d28233",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 9.59
+  },
+  {
+    "wallet_address": "0xe3796ae838835da0b6f6ea37bcf8bcb7",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 1.66
+  },
+  {
+    "wallet_address": "0x6a9aeddfc689c1d0e3b9ccc3ab651bc5",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 2.34
+  },
+  {
+    "wallet_address": "0x0f49c89d1e7298bb9930789c8ed59d48",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 8.93
+  },
+  {
+    "wallet_address": "0x46ba9f2a6976570b0353203ec4474217",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 8.54
+  },
+  {
+    "wallet_address": "0x0e01938fc48a2cfb5f2217fbfb00722d",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 7.76
+  },
+  {
+    "wallet_address": "0x16a5cdae362b8d27a1d8f8c7b78b4330",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 3.84
+  },
+  {
+    "wallet_address": "0x918317b57931b6b7a7d29490fe5ec9f9",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 4.82
+  },
+  {
+    "wallet_address": "0x48aedb8880cab8c45637abc7493ecddd",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 7.14
+  },
+  {
+    "wallet_address": "0x839ab46820b524afda05122893c2fe8e",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 8.41
+  },
+  {
+    "wallet_address": "0xf90f2aca5c640289d0a29417bcb63a37",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 3.53
+  },
+  {
+    "wallet_address": "0x9c838d2e45b2ad1094d42f4ef36764f6",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 3.55
+  },
+  {
+    "wallet_address": "0x1700002963a49da13542e0726b7bb758",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 8.4
+  },
+  {
+    "wallet_address": "0x53c3bce66e43be4f209556518c2fcb54",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 9.76
+  },
+  {
+    "wallet_address": "0x6883966fd8f918a4aa29be29d2c386fb",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 9.45
+  },
+  {
+    "wallet_address": "0x49182f81e6a13cf5eaa496d51fea6406",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 2.09
+  },
+  {
+    "wallet_address": "0xd296c101daa88a51f6ca8cfc1ac79b50",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 6.71
+  },
+  {
+    "wallet_address": "0x9fd81843ad7f202f26c1a174c7357585",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 3.36
+  },
+  {
+    "wallet_address": "0x26e359e83860db1d11b6acca57d8ea88",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 5.4
+  },
+  {
+    "wallet_address": "0xef0d3930a7b6c95bd2b32ed45989c61f",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 2.57
+  },
+  {
+    "wallet_address": "0x94f6d7e04a4d452035300f18b984988c",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 2.17
+  },
+  {
+    "wallet_address": "0x34ed066df378efacc9b924ec161e7639",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 2.85
+  },
+  {
+    "wallet_address": "0x577bcc914f9e55d5e4e4f82f9f00e7d4",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 7.74
+  },
+  {
+    "wallet_address": "0x11b9842e0a271ff252c1903e7132cd68",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 9.7
+  },
+  {
+    "wallet_address": "0x37bc2f75bf1bcfe8450a1a41c200364c",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 3.9
+  },
+  {
+    "wallet_address": "0x496e05e1aea0a9c4655800e8a7b9ea28",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 6.18
+  },
+  {
+    "wallet_address": "0xb2eb7349035754953b57a32e2841bda5",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 7.08
+  },
+  {
+    "wallet_address": "0x8e98d81f8217304975ccb23337bb5761",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 2.65
+  },
+  {
+    "wallet_address": "0xa8c88a0055f636e4a163a5e3d16adab7",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 0.64
+  },
+  {
+    "wallet_address": "0xeddea82ad2755b24c4e168c5fc2ebd40",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 2.03
+  },
+  {
+    "wallet_address": "0x06eb61b839a0cefee4967c67ccb099dc",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 5.0
+  },
+  {
+    "wallet_address": "0x9dfcd5e558dfa04aaf37f137a1d9d3e5",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 7.24
+  },
+  {
+    "wallet_address": "0x950a4152c2b4aa3ad78bdd6b366cc179",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 2.22
+  },
+  {
+    "wallet_address": "0x158f3069a435b314a80bdcb024f8e422",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 9.44
+  },
+  {
+    "wallet_address": "0x758874998f5bd0c393da094e1967a72b",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 3.58
+  },
+  {
+    "wallet_address": "0xad13a2a07ca4b7642959dc0c4c740ab6",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 1.16
+  },
+  {
+    "wallet_address": "0x3fe94a002317b5f9259f82690aeea4cd",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 3.92
+  },
+  {
+    "wallet_address": "0x5b8add2a5d98b1a652ea7fd72d942dac",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 4.83
+  },
+  {
+    "wallet_address": "0x432aca3a1e345e339f35a30c8f65edce",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 5.59
+  },
+  {
+    "wallet_address": "0x8d3bba7425e7c98c50f52ca1b52d3735",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 9.04
+  },
+  {
+    "wallet_address": "0x320722549d1751cf3f247855f937b982",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 2.94
+  },
+  {
+    "wallet_address": "0xcaf1a3dfb505ffed0d024130f58c5cfa",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 5.8
+  },
+  {
+    "wallet_address": "0x5737c6ec2e0716f3d8a7a5c4e0de0d9a",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 9.72
+  },
+  {
+    "wallet_address": "0xbc6dc48b743dc5d013b1abaebd2faed2",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 4.44
+  },
+  {
+    "wallet_address": "0xf2fc990265c712c49d51a18a32b39f0c",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 2.78
+  },
+  {
+    "wallet_address": "0x89f0fd5c927d466d6ec9a21b9ac34ffa",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 3.53
+  },
+  {
+    "wallet_address": "0xa666587afda6e89aec274a3657558a27",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 5.96
+  },
+  {
+    "wallet_address": "0xb83aac23b9528732c23cc7352950e880",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 2.22
+  },
+  {
+    "wallet_address": "0xcd00692c3bfe59267d5ecfac5310286c",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 2.69
+  },
+  {
+    "wallet_address": "0x6faa8040da20ef399b63a72d0e4ab575",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 0.25
+  },
+  {
+    "wallet_address": "0xfe73f687e5bc5280214e0486b273a5f9",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 6.96
+  },
+  {
+    "wallet_address": "0x6da37dd3139aa4d9aa55b8d237ec5d4a",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 9.23
+  },
+  {
+    "wallet_address": "0xc042f4db68f23406c6cecf84a7ebb0fe",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 1.25
+  },
+  {
+    "wallet_address": "0x310dcbbf4cce62f762a2aaa148d556bd",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 4.15
+  },
+  {
+    "wallet_address": "0x2f2b265625d76a6704b08093c652fd79",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 4.57
+  },
+  {
+    "wallet_address": "0xf9b902fc3289af4dd08de5d1de54f68f",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 2.61
+  },
+  {
+    "wallet_address": "0x6855456e2fe46a9d49d3d3af4f57443d",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 7.03
+  },
+  {
+    "wallet_address": "0x357a6fdf7642bf815a88822c447d9dc4",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 0.92
+  },
+  {
+    "wallet_address": "0x819f46e52c25763a55cc642422644317",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 9.19
+  },
+  {
+    "wallet_address": "0x04025959b191f8f9de3f924f0940515f",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 1.52
+  },
+  {
+    "wallet_address": "0x40008b9a5380fcacce3976bf7c08af5b",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 3.88
+  },
+  {
+    "wallet_address": "0x3dd48ab31d016ffcbf3314df2b3cb9ce",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 7.39
+  },
+  {
+    "wallet_address": "0x58238e9ae2dd305d79c2ebc8c1883422",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 6.47
+  },
+  {
+    "wallet_address": "0x3ad7c2ebb96fcba7cda0cf54a2e802f5",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 1.8
+  },
+  {
+    "wallet_address": "0xb3967a0e938dc2a6340e258630febd5a",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 0.6
+  },
+  {
+    "wallet_address": "0xd81f9c1be2e08964bf9f24b15f0e4900",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 7.03
+  },
+  {
+    "wallet_address": "0x13f9896df61279c928f19721878fac41",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 8.03
+  },
+  {
+    "wallet_address": "0xc5ff2543b53f4cc0ad3819a36752467b",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 3.2
+  },
+  {
+    "wallet_address": "0x01386bd6d8e091c2ab4c7c7de644d37b",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 2.17
+  },
+  {
+    "wallet_address": "0x0bb4aec1710521c12ee76289d9440817",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 6.72
+  },
+  {
+    "wallet_address": "0x9de6d14fff9806d4bcd1ef555be766cd",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 7.96
+  },
+  {
+    "wallet_address": "0xefe937780e95574250dabe07151bdc23",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 7.09
+  },
+  {
+    "wallet_address": "0x371bce7dc83817b7893bcdeed13799b5",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 1.76
+  },
+  {
+    "wallet_address": "0x138bb0696595b338afbab333c555292a",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 6.55
+  },
+  {
+    "wallet_address": "0x8dd48d6a2e2cad213179a3992c0be53c",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 7.04
+  },
+  {
+    "wallet_address": "0x82cec96096d4281b7c95cd7e74623496",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 3.31
+  },
+  {
+    "wallet_address": "0x6c524f9d5d7027454a783c841250ba71",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 7.99
+  },
+  {
+    "wallet_address": "0xfb7b9ffa5462084c5f4e7e85a093e6d7",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 4.69
+  },
+  {
+    "wallet_address": "0xaa942ab2bfa6ebda4840e7360ce6e7ef",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 8.19
+  },
+  {
+    "wallet_address": "0xc058f544c737782deacefa532d9add4c",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 3.62
+  },
+  {
+    "wallet_address": "0xe7b24b112a44fdd9ee93bdf998c6ca0e",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 0.86
+  },
+  {
+    "wallet_address": "0x52720e003547c70561bf5e03b95aa99f",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 9.0
+  },
+  {
+    "wallet_address": "0xc3e878e27f52e2a57ace4d9a76fd9acf",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 8.17
+  },
+  {
+    "wallet_address": "0x00411460f7c92d2124a67ea0f4cb5f85",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 2.7
+  },
+  {
+    "wallet_address": "0xbac9162b47c56fc8a4d2a519803d51b3",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 2.68
+  },
+  {
+    "wallet_address": "0x9be40cee5b0eee1462c82c6964087ff9",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 2.21
+  },
+  {
+    "wallet_address": "0x5ef698cd9fe650923ea331c15af3b160",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 7.32
+  },
+  {
+    "wallet_address": "0x05049e90fa4f5039a8cadc6acbb4b2cc",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 6.88
+  },
+  {
+    "wallet_address": "0xcf004fdc76fa1a4f25f62e0eb5261ca3",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 8.25
+  },
+  {
+    "wallet_address": "0x0c74b7f78409a4022a2c4c5a5ca3ee19",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 2.53
+  },
+  {
+    "wallet_address": "0xd709f38ef758b5066ef31b18039b8ce5",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 4.16
+  },
+  {
+    "wallet_address": "0x41f1f19176d383480afa65d325c06ed0",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 0.47
+  },
+  {
+    "wallet_address": "0x24b16fede9a67c9251d3e7c7161c83ac",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 6.19
+  },
+  {
+    "wallet_address": "0xffd52f3c7e12435a724a8f30fddadd9c",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 7.15
+  },
+  {
+    "wallet_address": "0xad972f10e0800b49d76fed33a21f6698",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 2.88
+  },
+  {
+    "wallet_address": "0xf61d6947467ccd3aa5af24db320235dd",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 9.1
+  },
+  {
+    "wallet_address": "0x142949df56ea8ae0be8b5306971900a4",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 7.2
+  },
+  {
+    "wallet_address": "0xd34ab169b70c9dcd35e62896010cd9ff",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 5.37
+  },
+  {
+    "wallet_address": "0x8bf1211fd4b7b94528899de0a43b9fb3",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 2.34
+  },
+  {
+    "wallet_address": "0xa02ffd91ece5e7efeb46db8f10a74059",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 2.85
+  },
+  {
+    "wallet_address": "0xbca82e41ee7b0833588399b1fcd177c7",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 8.08
+  },
+  {
+    "wallet_address": "0x00ec53c4682d36f5c4359f4ae7bd7ba1",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 2.51
+  },
+  {
+    "wallet_address": "0x4f6ffe13a5d75b2d6a3923922b3922e5",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 6.68
+  },
+  {
+    "wallet_address": "0xbeed13602b9b0e6ecb5b568ff5058f07",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 3.6
+  },
+  {
+    "wallet_address": "0x0584ce565c824b7b7f50282d9a19945b",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 1.35
+  },
+  {
+    "wallet_address": "0xdc912a253d1e9ba40e2c597ed2376640",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 1.04
+  },
+  {
+    "wallet_address": "0x39461a19e9eddfb385ea76b26521ea48",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 4.05
+  },
+  {
+    "wallet_address": "0x8efb100a295c0c690931222ff4467bb8",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 0.89
+  },
+  {
+    "wallet_address": "0xd9fc5b73a8d78fad3d6dffe419384e70",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 6.22
+  },
+  {
+    "wallet_address": "0xc86a7ee3d8ef0b551ed58e354a836f2b",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 2.31
+  },
+  {
+    "wallet_address": "0xa01a0380ca3c61428c26a231f0e49a09",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 3.71
+  },
+  {
+    "wallet_address": "0x5a4b25aaed25c2ee1b74de72dc03c14e",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 3.73
+  },
+  {
+    "wallet_address": "0xf73b76ce8949fe29bf2a537cfa420e8f",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 5.78
+  },
+  {
+    "wallet_address": "0x70c639df5e30bdee440e4cdf599fec2b",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 0.71
+  },
+  {
+    "wallet_address": "0x28f0b864598a1291557bed248a998d4e",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 3.68
+  },
+  {
+    "wallet_address": "0x1543843a4723ed2ab08e18053ae6dc5b",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 4.54
+  },
+  {
+    "wallet_address": "0xf8c1f23d6a8d8d7904fc0ea8e066b3bb",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 8.05
+  },
+  {
+    "wallet_address": "0xe46de7e1bcaaced9a54f1e9d0d2f800d",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 9.21
+  },
+  {
+    "wallet_address": "0xb7b16ecf8ca53723593894116071700c",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 3.31
+  },
+  {
+    "wallet_address": "0x352fe25daf686bdb4edca223c921acea",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 6.57
+  },
+  {
+    "wallet_address": "0x18d8042386b79e2c279fd162df0205c8",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 1.36
+  },
+  {
+    "wallet_address": "0x816b112c6105b3ebd537828a39af4818",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 0.95
+  },
+  {
+    "wallet_address": "0x69cb3ea317a32c4e6143e665fdb20b14",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 7.7
+  },
+  {
+    "wallet_address": "0xbbf94b34eb32268ada57a3be5062fe7d",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 3.01
+  },
+  {
+    "wallet_address": "0x4f4adcbf8c6f66dcfc8a3282ac2bf10a",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 2.5
+  },
+  {
+    "wallet_address": "0xbbcbff5c1f1ded46c25d28119a85c6c2",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 2.02
+  },
+  {
+    "wallet_address": "0x8cb22bdd0b7ba1ab13d742e22eed8da2",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 1.06
+  },
+  {
+    "wallet_address": "0xf4f6dce2f3a0f9dada0c2b5b66452017",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 9.13
+  },
+  {
+    "wallet_address": "0x0d0fd7c6e093f7b804fa0150b875b868",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 4.49
+  },
+  {
+    "wallet_address": "0xa96b65a721e561e1e3de768ac819ffbb",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 3.29
+  },
+  {
+    "wallet_address": "0x1068c6e4c8051cfd4e9ea8072e3189e2",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 2.62
+  },
+  {
+    "wallet_address": "0x17d63b1625c816c22647a73e1482372b",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 5.88
+  },
+  {
+    "wallet_address": "0xb9228e0962a78b84f3d5d92f4faa000b",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 6.6
+  },
+  {
+    "wallet_address": "0x0deb1c54814305ca9ad266f53bc82511",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 5.7
+  },
+  {
+    "wallet_address": "0x66808e327dc79d135ba18e051673d906",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 5.31
+  },
+  {
+    "wallet_address": "0x42e7aaa88b48137a16a1acd04ed91125",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 5.95
+  },
+  {
+    "wallet_address": "0x8fe0093bb30d6f8c31474bd0764e6ac0",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 3.9
+  },
+  {
+    "wallet_address": "0x41ae36ecb9b3eee609d05b90c14222fb",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 5.3
+  },
+  {
+    "wallet_address": "0xd1f255a373a3cef72e03aa9d980c7eca",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 4.74
+  },
+  {
+    "wallet_address": "0x7eacb532570ff6858afd2723755ff790",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 7.2
+  },
+  {
+    "wallet_address": "0xb6f0479ae87d244975439c6124592772",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 5.42
+  },
+  {
+    "wallet_address": "0xe0c641195b27425bb056ac56f8953d24",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 2.98
+  },
+  {
+    "wallet_address": "0xf85454e8279be180185cac7d243c5eb3",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 8.65
+  },
+  {
+    "wallet_address": "0xfaa9afea49ef2ff029a833cccc778fd0",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 7.03
+  },
+  {
+    "wallet_address": "0x3c7781a36bcd6cf08c11a970fbe0e2a6",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 5.67
+  },
+  {
+    "wallet_address": "0x25b2822c2f5a3230abfadd476e8b04c9",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 0.7
+  },
+  {
+    "wallet_address": "0x6ecbdd6ec859d284dc13885a37ce8d81",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 0.07
+  },
+  {
+    "wallet_address": "0x18997733ec258a9fcaf239cc55d53363",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 6.55
+  },
+  {
+    "wallet_address": "0x8d7d8ee069cb0cbbf816bbb65d56947e",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 4.4
+  },
+  {
+    "wallet_address": "0x75fc093c0ee742f6dddaa13fff98f104",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 8.64
+  },
+  {
+    "wallet_address": "0xf74909ace68e51891440e4da0b65a70c",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 7.62
+  },
+  {
+    "wallet_address": "0x66368270ffd51418ec58bd793f2d9b1b",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 2.74
+  },
+  {
+    "wallet_address": "0x248e844336797ec98478f85e7626de4a",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 9.89
+  },
+  {
+    "wallet_address": "0x019d385eb67632a7e958e23f24bd07d7",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 4.06
+  },
+  {
+    "wallet_address": "0xa49e9411d64ff53eccfdd09ad10a15b3",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 8.53
+  },
+  {
+    "wallet_address": "0xddb30680a691d157187ee1cf9e896d03",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 0.51
+  },
+  {
+    "wallet_address": "0x2421fcb1263b9530df88f7f002e78ea5",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 9.34
+  },
+  {
+    "wallet_address": "0xfccb60fb512d13df5083790d64c4d5dd",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 3.32
+  },
+  {
+    "wallet_address": "0x1651cf0d2f737d7adeab84d339dbabd3",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 0.19
+  },
+  {
+    "wallet_address": "0xeed5af6add95a9a6f1252739b1ad8c24",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 4.57
+  },
+  {
+    "wallet_address": "0xa8abb4bb284b5b27aa7cb790dc20f80b",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 0.11
+  },
+  {
+    "wallet_address": "0x15d4e891d784977cacbfcbb00c48f133",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 0.08
+  },
+  {
+    "wallet_address": "0xc203d8a151612acf12457e4d67635a95",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 2.02
+  },
+  {
+    "wallet_address": "0x13f3cf8c531952d72e5847c4183e6910",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 1.39
+  },
+  {
+    "wallet_address": "0x550a141f12de6341fba65b0ad0433500",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 7.23
+  },
+  {
+    "wallet_address": "0x67f7fb873eaf29526a11a9b7ac33bfac",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 4.44
+  },
+  {
+    "wallet_address": "0x1a5b1e4daae265b790965a275b53ae50",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 0.44
+  },
+  {
+    "wallet_address": "0x9a96876e2f8f3dc4f3cf45f02c61c0c1",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 5.6
+  },
+  {
+    "wallet_address": "0x9b70e8fe62e40c570a322f1b0b659098",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 7.4
+  },
+  {
+    "wallet_address": "0xd61e4bbd6393c9111e6526ea173a7c8b",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 6.64
+  },
+  {
+    "wallet_address": "0xf5f8590cd58a54e94377e6ae2eded4d9",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 6.35
+  },
+  {
+    "wallet_address": "0x941e1aaaba585b952b62c14a3a175a61",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 9.69
+  },
+  {
+    "wallet_address": "0x9431c87f273e507e6040fcb07dcb4509",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 4.04
+  },
+  {
+    "wallet_address": "0x49ae49a23f67c759bf4fc791ba842aa2",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 8.77
+  },
+  {
+    "wallet_address": "0xe44fea3bec53bcea3b7513ccef5857ac",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 2.88
+  },
+  {
+    "wallet_address": "0x821fa74b50ba3f7cba1e6c53e8fa6845",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 3.33
+  },
+  {
+    "wallet_address": "0x250cf8b51c773f3f8dc8b4be867a9a02",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 0.16
+  },
+  {
+    "wallet_address": "0x42998cf32d552343bc8e460416382dca",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 3.52
+  },
+  {
+    "wallet_address": "0xd07e70efcfab08731a97e7b91be644de",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 8.03
+  },
+  {
+    "wallet_address": "0x7fe1f8abaad094e0b5cb1b01d712f708",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 9.99
+  },
+  {
+    "wallet_address": "0x98b297950041a42470269d56260243a1",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 6.39
+  },
+  {
+    "wallet_address": "0x0353ab4cbed5beae847a7ff6e220b5cf",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 9.51
+  },
+  {
+    "wallet_address": "0x51d92be1c60d1db1d2e5e7a07da55b26",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 2.1
+  },
+  {
+    "wallet_address": "0x428fca9bc1921c25c5121f9da7815cde",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 4.37
+  },
+  {
+    "wallet_address": "0xf1b6f2857fb6d44dd73c7041e0aa0f19",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 6.68
+  },
+  {
+    "wallet_address": "0x68ce199ec2c5517597ce0a4d89620f55",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 2.95
+  },
+  {
+    "wallet_address": "0xe836d813fd184325132fca8edcdfb40e",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 3.8
+  },
+  {
+    "wallet_address": "0xab817c9349cf9c4f6877e1894a1faa00",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 0.65
+  },
+  {
+    "wallet_address": "0x877a9ba7a98f75b90a9d49f53f15a858",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 7.81
+  },
+  {
+    "wallet_address": "0xdc6a6489640ca02b0d42dabeb8e46bb7",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 3.79
+  },
+  {
+    "wallet_address": "0x26337353b7962f533d78c762373b3318",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 3.81
+  },
+  {
+    "wallet_address": "0x8e6b42f1644ecb1327dc03ab345e618b",
+    "kyc_verified": false,
+    "country": "AE",
+    "risk_score": 3.58
+  },
+  {
+    "wallet_address": "0xef575e8837d065a1683c022d2077d342",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 1.83
+  },
+  {
+    "wallet_address": "0x2050e03ca119580f74cca14cc6e97462",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 1.44
+  },
+  {
+    "wallet_address": "0x25ddc0f8c9d3e22e03d3076f98d83cb2",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 0.98
+  },
+  {
+    "wallet_address": "0x5ef0b4eba35ab2d6180b0bca7e46b6f9",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 2.54
+  },
+  {
+    "wallet_address": "0x598b3e71ec378bd83e0a727608b5db01",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 7.7
+  },
+  {
+    "wallet_address": "0x74071a673307ca7459bcf75fbd024e09",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 3.63
+  },
+  {
+    "wallet_address": "0xcfee398643cbc3dc5eefc89334cacdc1",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 0.75
+  },
+  {
+    "wallet_address": "0xd18f655c3fce66ca401d5f38b48c89af",
+    "kyc_verified": true,
+    "country": "AE",
+    "risk_score": 0.09
+  },
+  {
+    "wallet_address": "0x6ea2ef7311b482724a9b7b0bc0dd85c6",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 6.99
+  },
+  {
+    "wallet_address": "0x9461cce28ebe3e76fb4b931c35a169b0",
+    "kyc_verified": true,
+    "country": "SG",
+    "risk_score": 6.76
+  },
+  {
+    "wallet_address": "0xf770b62bc8f42a0b66751fe636fc6eb0",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 4.61
+  },
+  {
+    "wallet_address": "0xe1e32e235eee1f970470a3a6658dfdd5",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 9.2
+  },
+  {
+    "wallet_address": "0xeba0dc302bcd9a273f8bbb72be3a687b",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 5.61
+  },
+  {
+    "wallet_address": "0x218a0aefd1d1a4be65601cc6ddc1520e",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 8.29
+  },
+  {
+    "wallet_address": "0x7d04bbbe5494ae9d2f5a76aa1c00fa2f",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 1.27
+  },
+  {
+    "wallet_address": "0xa516a87cfcaef229b342c437fe2b95f7",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 9.24
+  },
+  {
+    "wallet_address": "0xc3c59e5f8b3e9753913f4d435b53c308",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 8.52
+  },
+  {
+    "wallet_address": "0x854d9fca60b4bd07f9bb215d59ef5561",
+    "kyc_verified": true,
+    "country": "DE",
+    "risk_score": 0.7
+  },
+  {
+    "wallet_address": "0xc410003ef13d451727aeff9082c29a5c",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 0.18
+  },
+  {
+    "wallet_address": "0x559cb990c9dffd8675f6bc2186971dc2",
+    "kyc_verified": false,
+    "country": "DE",
+    "risk_score": 3.39
+  },
+  {
+    "wallet_address": "0x55a7cf9c71f1c9c495413f934dd1a158",
+    "kyc_verified": true,
+    "country": "IN",
+    "risk_score": 4.71
+  },
+  {
+    "wallet_address": "0x2f55707d4193dc27118a0f19a1985716",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 4.1
+  },
+  {
+    "wallet_address": "0x1be3bc32e6564055d5ca3e5a354acbef",
+    "kyc_verified": true,
+    "country": "US",
+    "risk_score": 9.5
+  },
+  {
+    "wallet_address": "0x35051070e572e47d2c26c241ab88307f",
+    "kyc_verified": false,
+    "country": "US",
+    "risk_score": 3.89
+  },
+  {
+    "wallet_address": "0xb534ba68236ba543ae44b22bd110a1d6",
+    "kyc_verified": false,
+    "country": "SG",
+    "risk_score": 9.01
+  },
+  {
+    "wallet_address": "0x7380ad8a673226ae47fce7bff88e9c33",
+    "kyc_verified": true,
+    "country": "UK",
+    "risk_score": 6.29
+  },
+  {
+    "wallet_address": "0x05f971b5ec196b8c65b75d2ef8267331",
+    "kyc_verified": false,
+    "country": "IN",
+    "risk_score": 2.27
+  },
+  {
+    "wallet_address": "0x3cf166c6b73f030b4f67eeaeba301103",
+    "kyc_verified": false,
+    "country": "UK",
+    "risk_score": 1.36
+  }
+]
