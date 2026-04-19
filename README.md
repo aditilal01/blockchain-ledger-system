@@ -138,12 +138,6 @@ ETL vs ELT | OLTP vs OLAP | Hadoop/HDFS | Delta Lake | Cloud (AWS/GCP/Azure) | D
 
 ---
 
-## 📄 Documentation
-
-See `docs/project_documentation.pdf` for the full 5-page project report.
-
----
-
 ## 👤 Author
 
 **[ADITI LAL]** | Data Engineering Capstone | 
