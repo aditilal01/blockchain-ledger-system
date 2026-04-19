@@ -146,4 +146,5 @@ See `docs/project_documentation.pdf` for the full 5-page project report.
 
 ## 👤 Author
 
-**[Your Name]** | Data Engineering Capstone | [College Name] | [Year]
+**[ADITI LAL]** | Data Engineering Capstone | 
+
